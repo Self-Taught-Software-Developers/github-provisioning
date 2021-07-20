@@ -22,6 +22,28 @@ You'll need to generate a GitHub personal access token by navigating to [https:/
 
 ## Usage
 
-[Octokit]: https://github.com/octokit/octokit.rb
-[asdf]: https://asdf-vm.com/#/
-[RubyInstaller]: https://rubyinstaller.org/downloads/
+...
+
+## Author
+
+**[Meg Gutshall]**
+
+Connect with me on... [GitHub], [LinkedIn], and [Twitter]!
+
+## Acknowledgments
+
+A big shoutout to [Ruby for Good] for making their provisioning repo open source! Check out the amazing things they do on [their website](https://rubyforgood.org/) as well!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+[Octokit]: https://github.com/octokit/octokit.rb "Ruby toolkit for the GitHub API"
+[asdf]: https://asdf-vm.com/#/ "Manage multiple runtime versions with a single CLI tool"
+[RubyInstaller]: https://rubyinstaller.org/ "The easy way to install Ruby on Windows"
+[Ruby for Good]: https://github.com/rubyforgood "Dedicated to making the world gooder"
+
+[Meg Gutshall]: https://meghangutshall.com/ "Meg Gutshall's website"
+[GitHub]: https://github.com/meg-gutshall "Meg Gutshall's GitHub profile"
+[LinkedIn]: https://www.linkedin.com/in/meghan-gutshall/ "Meg Gutshall's LinkedIn profile"
+[Twitter]: https://twitter.com/meg_gutshall "Meg Gutshall's Twitter profile"
